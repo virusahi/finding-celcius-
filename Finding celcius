@@ -6,7 +6,7 @@ int main(){
 
    //get the limit of fibonacci series
 
-   printf("Enter value of Fahrenheit: 
+   printf("Enter the temperature in Fahrenheit: 
 
 ");
 
