@@ -4,7 +4,7 @@ int main(){
 
    float fahrenheit, celsius;
 
-   //get the limit of fibonacci series
+   
 
    printf("Enter the temperature in Fahrenheit: 
 
