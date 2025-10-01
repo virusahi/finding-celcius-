@@ -1,5 +1,5 @@
 #include<stdio.h>
-
+// hi its me your old friend 
 int main(){
 
    float fahrenheit, celsius;
