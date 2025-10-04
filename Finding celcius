@@ -4,9 +4,7 @@ int main(){
 
    float fahrenheit, celsius;
 
-   
-
-   printf("Enter the temperature in Fahrenheit: 
+     printf("Enter the temperature in Fahrenheit: 
 
 ");
 
